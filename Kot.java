@@ -32,7 +32,7 @@ public class Kot {
 		this.date = date;
 	}
 
-	public float getWaga() {
+	public Float getWaga() {
 		return waga;
 	}
 
